@@ -1,0 +1,3 @@
+[31-Mar-2019 20:45:59 UTC] PHP Fatal error:  Can't use method return value in write context in /home/phonecasings/laravel/app/Http/Controllers/APIController.php on line 62
+[31-Mar-2019 20:46:39 UTC] PHP Fatal error:  Can't use method return value in write context in /home/phonecasings/laravel/app/Http/Controllers/APIController.php on line 62
+[01-Apr-2019 01:27:42 UTC] PHP Fatal error:  Can't use method return value in write context in /home/phonecasings/laravel/app/Http/Controllers/APIController.php on line 62

@@ -1,0 +1,1 @@
+[26-Mar-2019 09:14:01 UTC] PHP Fatal error:  Cannot declare class CreateUsersTable, because the name is already in use in /home/phonecasings/laravel/database/migrations/2019_03_26_090457_create_users_table.php on line 31
